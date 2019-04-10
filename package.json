@@ -1,10 +1,9 @@
 {
   "name": "sas-export",
   "main": "./lib/sas-export",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Export script (should be SAS file) to default directory for execution in SAS EG",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "sas-export:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
