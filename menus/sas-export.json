@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sas-export",
+        "command": "sas-export:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sas-export",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sas-export:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
