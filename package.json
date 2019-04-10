@@ -8,12 +8,11 @@
   "activationCommands": {
     "atom-workspace": "sas-export:toggle"
   },
-  "repository": "https://github.com/atom/sas-export",
+  "repository": "https://github.com/AndreasRosing/sas-export-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
   }
-
 }
