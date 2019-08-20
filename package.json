@@ -1,7 +1,7 @@
 {
   "name": "sas-export",
   "main": "./lib/sas-export",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "Export script (should be SAS file) to default directory for execution in SAS EG",
   "keywords": [],
   "activationCommands": {
